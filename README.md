@@ -1,6 +1,6 @@
 # Flight Booking and Travel Report
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](images/dashboard.png.png)
 
 ## Overview
 An interactive Power BI report on flight bookings across six airlines and six cities.
