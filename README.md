@@ -8,7 +8,7 @@ An interactive Power BI report on flight bookings across six airlines and six ci
 **Tools:** Power BI
 
 ## Dataset
-200 bookings across 6 airlines and 6 cities (Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, Mumbai). [Add source and columns]
+200 bookings across 6 airlines and 6 cities (Bengaluru, Chennai, Delhi, Hyderabad, Kolkata, Mumbai).
 
 ## What I did
 - Built an interactive Power BI report on the booking data.
